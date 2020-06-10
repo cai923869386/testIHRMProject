@@ -1,1 +1,3 @@
-print("asdas")
+打印（“ asdas”）
+# asdas
+# asf
